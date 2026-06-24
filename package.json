@@ -1,0 +1,13 @@
+{
+  "name": "@sgbp/sg-holidays",
+  "version": "1.0.0",
+  "description": "Singapore gazetted public holidays for 2026 and 2027, per the Ministry of Manpower. Zero-dependency Web Component.",
+  "type": "module",
+  "main": "sg-holidays.js",
+  "unpkg": "sg-holidays.js",
+  "files": ["sg-holidays.js", "README.md"],
+  "keywords": ["web-component", "custom-element", "singapore public holidays", "public holidays singapore 2026", "sg holidays"],
+  "homepage": "https://sgbp.tech/tools/singapore-public-holidays",
+  "author": "SGBP — Singapore Build Partners (https://sgbp.tech)",
+  "license": "MIT"
+}
