@@ -1,0 +1,8 @@
+site_name: Singapore Public Holidays
+site_description: Singapore gazetted public holidays for 2026 and 2027, per the Ministry of Manpower.
+theme:
+  name: readthedocs
+nav:
+  - Overview: index.md
+  - Usage & API: usage.md
+  - Guide: guide.md
